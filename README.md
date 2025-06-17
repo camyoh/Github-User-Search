@@ -5,6 +5,14 @@
 <a id="japanese"></a>
 # GitHub ユーザーエクスプローラー
 
+## スクリーンショットと動画
+<img src="https://github.com/camyoh/Github-User-Search/blob/main/SupportFiles/video-gif.gif" width="300">
+
+<img src="https://raw.githubusercontent.com/camyoh/Github-User-Search/main/SupportFiles/eng2.png" width="300"> <img src="https://raw.githubusercontent.com/camyoh/Github-User-Search/main/SupportFiles/eng1.png" width="300">
+
+### 対応言語：英語・日本語・スペイン語
+<img src="https://github.com/camyoh/Github-User-Search/blob/main/SupportFiles/jap4.png" width="300"> <img src="https://github.com/camyoh/Github-User-Search/blob/main/SupportFiles/jap3.png" width="300"> <img src="https://github.com/camyoh/Github-User-Search/blob/main/SupportFiles/jap2.png" width="300"> <img src="https://github.com/camyoh/Github-User-Search/blob/main/SupportFiles/jap1.png" width="300">
+
 ## 概要
 クリーンアーキテクチャ、プログラマティックUI、包括的なテストカバレッジを備えた、GitHubユーザーを探索するためのモダンなiOSアプリケーションです。このアプリは、保守性、拡張性、信頼性に重点を置いたiOS開発のベストプラクティスを示しています。
 
@@ -128,6 +136,15 @@ git-test/
 
 <a id="english"></a>
 # GitHub Users Explorer
+
+## Screenshots and videos
+<img src="https://github.com/camyoh/Github-User-Search/blob/main/SupportFiles/video-gif.gif" width="300">
+
+<img src="https://raw.githubusercontent.com/camyoh/Github-User-Search/main/SupportFiles/eng2.png" width="300"> <img src="https://raw.githubusercontent.com/camyoh/Github-User-Search/main/SupportFiles/eng1.png" width="300">
+
+### Support for english, japanese, spanish
+<img src="https://github.com/camyoh/Github-User-Search/blob/main/SupportFiles/jap4.png" width="300"> <img src="https://github.com/camyoh/Github-User-Search/blob/main/SupportFiles/jap3.png" width="300"> <img src="https://github.com/camyoh/Github-User-Search/blob/main/SupportFiles/jap2.png" width="300"> <img src="https://github.com/camyoh/Github-User-Search/blob/main/SupportFiles/jap1.png" width="300">
+
 
 ## Overview
 A modern iOS application for exploring GitHub users, built with clean architecture, programmatic UI, and comprehensive test coverage. The app demonstrates best practices in iOS development with a focus on maintainability, scalability, and reliability.
