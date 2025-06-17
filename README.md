@@ -13,6 +13,9 @@
 ### 対応言語：英語・日本語・スペイン語
 <img src="https://github.com/camyoh/Github-User-Search/blob/main/SupportFiles/jap4.png" width="300"> <img src="https://github.com/camyoh/Github-User-Search/blob/main/SupportFiles/jap3.png" width="300"> <img src="https://github.com/camyoh/Github-User-Search/blob/main/SupportFiles/jap2.png" width="300"> <img src="https://github.com/camyoh/Github-User-Search/blob/main/SupportFiles/jap1.png" width="300">
 
+### エラーハンドリング
+<img src="https://github.com/camyoh/Github-User-Search/blob/main/SupportFiles/error1.png" width="300">
+
 ## 概要
 クリーンアーキテクチャ、プログラマティックUI、包括的なテストカバレッジを備えた、GitHubユーザーを探索するためのモダンなiOSアプリケーションです。このアプリは、保守性、拡張性、信頼性に重点を置いたiOS開発のベストプラクティスを示しています。
 
@@ -144,6 +147,10 @@ git-test/
 
 ### Support for english, japanese, spanish
 <img src="https://github.com/camyoh/Github-User-Search/blob/main/SupportFiles/jap4.png" width="300"> <img src="https://github.com/camyoh/Github-User-Search/blob/main/SupportFiles/jap3.png" width="300"> <img src="https://github.com/camyoh/Github-User-Search/blob/main/SupportFiles/jap2.png" width="300"> <img src="https://github.com/camyoh/Github-User-Search/blob/main/SupportFiles/jap1.png" width="300">
+
+### Error handling
+<img src="https://github.com/camyoh/Github-User-Search/blob/main/SupportFiles/error1.png" width="300">
+
 
 
 ## Overview
