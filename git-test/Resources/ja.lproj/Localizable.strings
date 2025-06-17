@@ -1,0 +1,23 @@
+/* Title for followers count */
+"followers.title" = "フォロワー";
+
+/* Title for following count */
+"following.title" = "フォロー中";
+
+/* Title for retry button */
+"button.retry" = "再試行";
+
+/* Error message shown when user information could not be fetched */
+"error.failed.user.info" = "ユーザー情報の取得に失敗しました。もう一度お試しください。";
+
+/* Users list screen title */
+"screen_title" = "GitHubユーザー";
+
+/* Search bar placeholder */
+"search.placeholder" = "GitHubユーザーを検索";
+
+/* Error message shown when search fails */
+"error.failed.search" = "ユーザーの検索に失敗しました";
+
+/* Error message shown when fetching users fails */
+"error.failed.fetch.users" = "ユーザーの取得に失敗しました。もう一度お試しください。";

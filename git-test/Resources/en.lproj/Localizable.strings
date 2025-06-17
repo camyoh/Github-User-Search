@@ -1,0 +1,24 @@
+/* Title for followers count */
+"followers.title" = "Followers";
+
+/* Title for following count */
+"following.title" = "Following";
+
+/* Title for retry button */
+"button.retry" = "Retry";
+
+/* Error message shown when user information could not be fetched */
+"error.failed.user.info" = "Failed to fetch user information. Please try again.";
+
+/* Users list screen title */
+"screen_title" = "GitHub Users";
+
+/* Search bar placeholder */
+"search.placeholder" = "Search GitHub Users";
+
+/* Error message shown when search fails */
+"error.failed.search" = "Failed to search users";
+
+/* Error message shown when fetching users fails */
+"error.failed.fetch.users" = "Failed to fetch users. Please try again.";
+
